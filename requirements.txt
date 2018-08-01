@@ -1,0 +1,7 @@
+requests
+BeautifulSoup4
+progressbar2
+prettytable
+clipboard
+colorama
+termcolor
